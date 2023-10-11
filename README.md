@@ -1,4 +1,4 @@
-<p>Moviee<img align="right" src="https://cdn.pixabay.com/photo/2019/09/19/18/05/clapboard-4489924_640.png" width="15px"></p>
+<p>Moviee<img align="right" src="https://cdn.pixabay.com/photo/2019/09/19/18/05/clapboard-4489924_640.png" width="450px"></p>
 
 # Project-09 : Movie App
 

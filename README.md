@@ -1,6 +1,6 @@
-<p>Moviee<img align="right" src="https://cdn.pixabay.com/photo/2019/09/19/18/05/clapboard-4489924_640.png" width="450px"></p>
+<p>Moviee<img align="right" src="https://cdn.pixabay.com/photo/2019/09/19/18/05/clapboard-4489924_640.png" width="300px"></p>
 
-# Project-09 : Movie App
+# Project-06 : Movie App
 
 ## Description
 

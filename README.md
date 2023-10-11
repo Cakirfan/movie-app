@@ -13,15 +13,15 @@ Project aims to create a Movie App.
 ## Project Skeleton
 
 ```
-09 - Movie App (folder)
+06 - Movie App (folder)
 |
 |----readme.md
 SOLUTION
 ├── public
 │     └── index.html
 ├── src
-│     ├── assets
-│     │     └── icons
+│    ├── assets
+│    │     └── icons
 │    ├── auth
 │    │     └── firebase.js
 │    ├── components
@@ -49,3 +49,16 @@ SOLUTION
 ├── package.json
 ├── .env
 └── tailwind.config.js
+
+
+## Objective
+
+Build a Movie App using ReactJS.
+
+
+### At the end of the project, following topics are to be covered;
+
+- HTML
+- CSS
+- JS
+- ReactJS

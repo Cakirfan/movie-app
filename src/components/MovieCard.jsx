@@ -30,7 +30,7 @@ const MovieCard = ({ title, poster_path, overview, vote_average, id }) => {
         src={poster_path ? IMG_API + poster_path : defaultImage}
         alt="movie-card"
       />
-      <div className="d-flex align-middle justify-center text-white p-3">
+      <div className="flex align-middle justify-between text-white py-2 px-1">
         <h5 className="text-center">{title}</h5>
 
         {currentUser && (

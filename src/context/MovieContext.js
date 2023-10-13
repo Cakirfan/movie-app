@@ -7,6 +7,7 @@ const API_KEY = process.env.REACT_APP_TMDB_KEY;
 const FEATURED_API = `https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY}`;
 
 const MovieContextProvider = ({ children }) => {
+  
   const [movie, setMovie] = useState([]);
   const [loading, setLoading] = useState(false);
 

@@ -17,7 +17,7 @@ export default function Navbar() {
     <>
       <Disclosure
         as="nav"
-        className="bg-neutral-100 dark:bg-gray-900 py-3 dark:text-white fixed top-0 w-full z-20"
+        className="bg-neutral-400 dark:bg-gray-900 py-3 px-5 dark:text-white fixed top-0 w-full z-20 shadow-md"
       >
         <div className="mx-auto px-2 sm:px-6 lg:px-8">
           <div className="relative flex items-center justify-between">
